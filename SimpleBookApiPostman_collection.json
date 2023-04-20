@@ -451,7 +451,7 @@
 		"bearer": [
 			{
 				"key": "token",
-				"value": "e86a5d6ce9b4e8bf5960b6f1c126090af6fd42e0cfde3a72cb91bf720b8631f7",
+				"value": "{{AccessToken}}",
 				"type": "string"
 			}
 		]
@@ -479,6 +479,22 @@
 	"variable": [
 		{
 			"key": "AccessToken",
+			"value": ""
+		},
+		{
+			"key": "id0",
+			"value": ""
+		},
+		{
+			"key": "name0",
+			"value": ""
+		},
+		{
+			"key": "type0",
+			"value": ""
+		},
+		{
+			"key": "OrderID0",
 			"value": ""
 		}
 	]
